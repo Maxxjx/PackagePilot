@@ -56,7 +56,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background dark flex flex-col">
       <div className="container mx-auto py-8 px-4 flex-1">
-        <Card className="max-w-5xl mx-auto border-orange-600/20 shadow-lg">
+        <Card className="mx-auto border-orange-600/20 shadow-lg">
           <CardHeader className="border-b border-orange-600/20">
             <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
               <div>
