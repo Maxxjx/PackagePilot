@@ -27,7 +27,7 @@ A lightweight, modern, and responsive web application that helps users generate 
 
 ## 📸 UI Preview
 
-![UI Preview](public/packagepilot.png)  
+![UI Preview] (public/packagepilot.png)  
 *Dark mode interface with OS selector and command preview panel.*
 
 ---
